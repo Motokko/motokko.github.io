@@ -1,2 +1,2 @@
-# motokko.github.io
-Motokko Public Page
+# /MO·TOK·KO/ 
+Mixing Bits and Atoms
