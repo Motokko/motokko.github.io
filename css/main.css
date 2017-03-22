@@ -211,9 +211,9 @@ p.demos a:active{
 }
 .cb-slideshow li div h3 {
     font-family: 'DINNextCYR-Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 80px;
+    font-size: 50px;
     padding: 0;
-    line-height: 249px;
+    line-height: 400px;
 }
 .cb-slideshow li:nth-child(1) span {
     background-image: url(../images/1.jpg)
