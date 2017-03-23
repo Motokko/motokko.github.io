@@ -129,7 +129,10 @@ a{
 	float: none;
 	display: inline;
 }
-
+.tel {
+    color:white;
+    display: inline-flex;
+}
 p.demos{
 	display: block;
 	padding: 15px 0px;
